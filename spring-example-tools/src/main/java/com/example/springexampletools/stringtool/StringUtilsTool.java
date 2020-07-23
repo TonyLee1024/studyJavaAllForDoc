@@ -1,10 +1,8 @@
-package com.example.springexampletools.StringTool;
+package com.example.springexampletools.stringtool;
 import org.apache.commons.lang3.StringUtils;
 /**
  * @version 1.0
  * @ClassName: String
- * @Author lee
- * @date 2020/7/23 10:37
  */
 public class StringUtilsTool {
     /**
